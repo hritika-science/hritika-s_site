@@ -1,0 +1,1 @@
+function changecolor(){ document.getElementById("hi_wrld").style.color="yellow";}
